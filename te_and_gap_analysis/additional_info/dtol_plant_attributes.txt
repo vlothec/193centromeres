@@ -1,0 +1,999 @@
+fasta	Group	Genus	Species	Class	Mono/Ditypic	Sat.names	Genome note
+ihAelAcum1.1.fa	Hemiptera	Aelia	acuminata	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/6-320/v1
+ihAcaHaem1.1.fa	Hemiptera	Acanthosoma	haemorrhoidale	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/7-178/v1
+ihIcePurc2.1.fa	Hemiptera	Icerya	purchasi	Holocentric	NA	NA	https://doi.org/10.12688/wellcomeopenres.20653.1
+ilPieNapi4.1.fa	Lepidoptera	Pieris	napi	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/6-288/v1
+ilNotUddm1.1.fa	Lepidoptera	Notocelia	uddmanniana	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/6-348/v1
+ilThoDeci1.1.fa	Lepidoptera	Tholera	decimalis	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/8-200
+ilAgoAren1.1.fa	Lepidoptera	Agonopterix	arenella	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/8-214
+ilBisBetu1.1.fa	Lepidoptera	Biston	betularia	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/7-97
+ilDeiPorc1.1.fa	Lepidoptera	Deilephila	porcellus	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/7-80/v1
+ilEmmMono1.1.fa	Lepidoptera	Emmelina	monodactyla	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/8-97
+ilHydMica1.1.fa	Lepidoptera	Hydraecia	micacea	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/7-131/v1
+ilMicArun2.1.fa	Lepidoptera	Micropterix	aruncella	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/8-1/v1
+ilParStra1.1.fa	Lepidoptera	Parapoynx	stratiotata	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/7-121/v1
+ilParAegt1.1.fa	Lepidoptera	Pararge	aegeria	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/6-287
+ilPyrMalv3.1.fa	Lepidoptera	Pyrgus	malvae	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/7-114/v1
+ilSesBemb1.1.fa	Lepidoptera	Sesia	bembeciformis	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/8-109
+ilTinTrin1.1.fa	Lepidoptera	Tinea	trinotella	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/7-124/v1
+ilWatBina1.1.fa	Lepidoptera	Watsonalla	binaria	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/8-324
+ilYpsScab1.1.fa	Lepidoptera	Ypsolopha	scabrella	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/8-341/v1
+ilZeuPyri1.1.fa	Lepidoptera	Zeuzera	pyrina	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/8-94/v1
+ioIscEleg1.1.fa	Odonata	Ischnura	elegans	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/7-66/v1
+ioPlaPenn1.1.fa	Odonata	Platycnemis	pennipes	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/8-320/v1
+iiGlyPell1.1.fa	Trichoptera	Glyphotaelius	pellucidus	Holocentric	NA	NA	https://wellcomeopenresearch.org/articles/8-102
+lpLuzSylv1.1.fa	Monocots	Luzula	sylvatica	Holocentric+sat	Ditypic	lpLuzSylv.125; lpLuzSylv.174	https://wellcomeopenresearch.org/articles/9-124
+lpCarDepa1.1.fa	Monocots	Carex	depauperata	Holocentric+sat	Monotypic	lpCarDepa.81	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964197715.1/
+lpSchLacu1.1.fa	Monocots	Schoenoplectus	lacustris	Holocentric+sat	Monotypic	lpSchLacu.179	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964200675.1/
+iiLimLuna2.1.fa	Trichoptera	Limnephilus	lunatus	Holocentric+sat	Monotypic	iiLimLuna.249	https://wellcomeopenresearch.org/articles/8-25/v1
+iiLimMarm1.1.fa	Trichoptera	Limnephilus	marmoratus	Holocentric+sat	Monotypic	iiLimMarm.205	https://wellcomeopenresearch.org/articles/8-64/v1
+iiLimRhom1.1.fa	Trichoptera	Limnephilus	rhombicus	Holocentric+sat	Monotypic	iiLimRhom.187	https://wellcomeopenresearch.org/articles/8-170
+bGalGal1.GRCg7b.fa	Aves	Gallus	gallus	Mixed	Monotypic	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_016699485.2/
+icSilAtra2.1.fa	Coleoptera	Phosphuga	atrata	Mixed	Monotypic	NA	https://wellcomeopenresearch.org/articles/8-562
+icPolCerv1.1.fa	Coleoptera	Polydrusus	cervinus	Mixed	Monotypic	NA	https://wellcomeopenresearch.org/articles/8-563
+daArcMinu1.1.fa	Dicots	Arctium	minus	Mixed	Monotypic	NA	https://wellcomeopenresearch.org/articles/9-589/v1
+daLycEuro1.1.fa	Dicots	Lycopus	europaeus	Mixed	Monotypic	NA	None
+daPulDyse1.1.fa	Dicots	Pulicaria	dysenterica	Mixed	Monotypic	NA	https://wellcomeopenresearch.org/articles/8-447
+drTriFrag1.1.fa	Dicots	Trifolium	fragiferum	Mixed	Monotypic	NA	https://wellcomeopenresearch.org/articles/9-158/v1
+Rosa	Dicots	Rosa	canina	Mixed	Monotypic	NA	Rosa
+idPhyMeln1.1.fa	Diptera	Phyto	melanocephala	Mixed	Monotypic	NA	https://wellcomeopenresearch.org/articles/8-249
+idSyrPipi1.1.fa	Diptera	Syritta	pipiens	Mixed	Monotypic	NA	https://wellcomeopenresearch.org/articles/8-349
+idProAzur1.1.fa	Diptera	Protocalliphora	azurea	Mixed	Monotypic	NA	https://wellcomeopenresearch.org/articles/8-67/v1
+iyAncNigr1.1.fa	Hymenoptera	Ancistrocerus	nigricornis	Mixed	Monotypic	NA	https://wellcomeopenresearch.org/articles/8-461
+iyBuaLabo1.1.fa	Hymenoptera	Buathra	laborator	Mixed	Monotypic	NA	https://wellcomeopenresearch.org/articles/8-7/v1
+iySelTumu1.1.fa	Hymenoptera	Seladonia	tumulorum	Mixed	Monotypic	NA	https://wellcomeopenresearch.org/articles/7-105
+fAloSap1.1.fa	Actinopterygii	Alosa	sapidissima	Satellite	Monotypic	fAloSap.174	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_018492685.1/
+fBarBab1.1.fa	Actinopterygii	Barbus	barbus	Satellite	Monotypic	fBarBab.255	https://wellcomeopenresearch.org/articles/8-201
+fDanRer4.1.fa	Actinopterygii	Danio	rerio	Satellite	Monotypic	fDanRer.185	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_944039275.1/
+fTauBub2.1.fa	Actinopterygii	Taurulus	bubalis	Satellite	Monotypic	fTauBub.185	https://wellcomeopenresearch.org/articles/6-299/v1
+wpAliVire1.1.fa	Annelida	Alitta	virens	Satellite	Monotypic	wpAliVire.263	https://wellcomeopenresearch.org/articles/8-297
+bAccGen1.1.fa	Aves	Accipiter	gentilis	Satellite	Monotypic	bAccGen.173	https://wellcomeopenresearch.org/articles/7-122/v1
+bFalBia1.1.fa	Aves	Falco	biarmicus	Satellite	Monotypic	bFalBia.174	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_023638135.1/
+bFalChe1.1.fa	Aves	Falco	cherrug	Satellite	Monotypic	bFalChe.174	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_023634085.1/
+bFalPer1.1.fa	Aves	Falco	peregrinus	Satellite	Monotypic	bFalPer.174	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_023634155.1/
+bPorHoc1.1.fa	Aves	Porphyrio	hochstetteri	Satellite	Monotypic	bPorHoc.190	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_020800305.1/
+tzBugStol2.1.fa	Bryozoa	Bugulina	stolonifera	Satellite	Monotypic	tzBugStol.227	https://wellcomeopenresearch.org/articles/8-26/v1
+tzMemMemb1.1.fa	Bryozoa	Membranipora	membranacea	Satellite	Monotypic	tzMemMemb.334	https://wellcomeopenresearch.org/articles/8-38/v1
+jaDiaLine6.1.fa	Cnidaria	Diadumene	lineata	Satellite	Monotypic	jaDiaLine.150	https://wellcomeopenresearch.org/articles/7-93
+jrHalOcto1.1.fa	Cnidaria	Haliclystus	octoradiatus	Satellite	Monotypic	jrHalOcto.55	https://wellcomeopenresearch.org/articles/8-6/v1
+jaNemVect1.1.fa	Cnidaria	Nematostella	vectensis	Satellite	Monotypic	jaNemVect.541	https://doi.org/10.12688/wellcomeopenres.18991.1
+jaRicFlor1.1.fa	Cnidaria	Ricordia	florida	Satellite	Monotypic	jaRicFlor.592	None
+icCanRust1.1.fa	Coleoptera	Cantharis	rustica	Satellite	Ditypic	icCanRust.339; icCanRust.145	https://wellcomeopenresearch.org/articles/6-325/v1
+icNebBrev1.1.fa	Coleoptera	Nebria	brevicollis	Satellite	Monotypic	icNebBrev.137	https://wellcomeopenresearch.org/articles/8-20/v1
+icNebSali1.1.fa	Coleoptera	Nebria	salina	Satellite	Monotypic	icNebSali.133	https://wellcomeopenresearch.org/articles/8-247/v1
+icRhaFulv1.1.fa	Coleoptera	Rhagonycha	fulva	Satellite	Monotypic	icRhaFulv.76	https://wellcomeopenresearch.org/articles/6-243/v1
+icAdaBipu1.1.fa	Coleoptera	Adalia	bipunctata	Satellite	Monotypic	icAdaBipu.184	https://wellcomeopenresearch.org/articles/7-288
+icApoCory1.1.fa	Coleoptera	Apoderus	coryli	Satellite	Monotypic	icApoCory.146	https://wellcomeopenresearch.org/articles/6-315
+icChrOric1.1.fa	Coleoptera	Chrysolina	oricalcia	Satellite	Monotypic	icChrOric.13	https://wellcomeopenresearch.org/articles/8-400/v2
+icCocSept1.1.fa	Coleoptera	Coccinella	septempunctata	Satellite	Monotypic	icCocSept.144	https://wellcomeopenresearch.org/articles/6-319/v1
+icHarAxyr1.1.fa	Coleoptera	Harmonia	axyridis	Satellite	Monotypic	icHarAxyr.274	https://wellcomeopenresearch.org/articles/6-300/v3
+icMalBipu1.1.fa	Coleoptera	Malachius	bipustulatus	Satellite	Monotypic	icMalBipu.128	https://wellcomeopenresearch.org/articles/6-322/v1
+icOcyOlen1.1.fa	Coleoptera	Ocypus	olens	Satellite	Monotypic	icOcyOlen.165	https://wellcomeopenresearch.org/articles/6-293/v2
+icPteMadi1.1.fa	Coleoptera	Pterostichus	madidus	Satellite	Monotypic	icPteMadi.156	https://wellcomeopenresearch.org/articles/6-301/v1
+icLepMacu1.1.fa	Coleoptera	Rutpela	maculata	Satellite	Monotypic	icLepMacu.295	https://wellcomeopenresearch.org/articles/8-579
+ddAraThal4.1.fa	Dicots	Arabidopsis	thaliana	Satellite	Monotypic	ddAraThal.178	https://wellcomeopenresearch.org/articles/8-40
+daBalNigr1.1.fa	Dicots	Ballota	nigra	Satellite	Monotypic	daBalNigr.86	https://wellcomeopenresearch.org/articles/8-439
+drChaAngu1.1.fa	Dicots	Chamaenerion	angustifolium	Satellite	Monotypic	drChaAngu.218	https://wellcomeopenresearch.org/articles/9-163/v1
+ddEupPepu3.1.fa	Dicots	Euphorbia	peplus	Satellite	Monotypic	ddEupPepu.156	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964200815.1/
+drHedHeli1.1.fa	Dicots	Hedera	helix	Satellite	Monotypic	drHedHeli.159	https://wellcomeopenresearch.org/articles/8-325/v1
+daLinVulg1.1.fa	Dicots	Linaria	vulgaris	Satellite	Monotypic	daLinVulg.249	https://wellcomeopenresearch.org/articles/8-370/v1
+drMedArab1.1.fa	Dicots	Medicago	arabica	Satellite	Monotypic	drMedArab.169	https://wellcomeopenresearch.org/articles/9-116/v2
+ddMerAnnu1.1.fa	Dicots	Mercurialis	annua	Satellite	Monotypic	ddMerAnnu.93	https://wellcomeopenresearch.org/articles/9-102/v1
+daMisOron1.1.fa	Dicots	Misopates	orontium	Satellite	Monotypic	daMisOron.129	https://wellcomeopenresearch.org/articles/9-123
+drParJuda1.1.fa	Dicots	Parietaria	judaica	Satellite	Monotypic	drParJuda.357	https://wellcomeopenresearch.org/articles/9-608
+dcPolAvic1.1.fa	Dicots	Polygonum	aviculare	Satellite	Monotypic	dcPolAvic.172	https://wellcomeopenresearch.org/articles/9-112
+drPotAnse1.1.fa	Dicots	Potentilla	anserina	Satellite	Monotypic	drPotAnse.150	https://wellcomeopenresearch.org/articles/8-464
+dhQueRobu3.1.fa	Dicots	Quercus	robur	Satellite	Monotypic	dhQueRobu.146	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_932294415.1/
+daScuGale1.1.fa	Dicots	Scutellaria	galericulata	Satellite	Monotypic	daScuGale.125	https://wellcomeopenresearch.org/articles/8-98
+daSheArve1.1.fa	Dicots	Sherardia	arvensis	Satellite	Monotypic	daSheArve.39	https://wellcomeopenresearch.org/articles/9-126/v1
+idCluTigr1.1.fa	Diptera	Clusia	tigrina	Satellite	Ditypic	idCluTigr.192; idCluTigr.118	https://wellcomeopenresearch.org/articles/8-430
+idBelPand1.1.fa	Diptera	Bellardia	pandia	Satellite	Monotypic	idBelPand.62	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_916048285.2/
+idBibMarc1.1.fa	Diptera	Bibio	marci	Satellite	Monotypic	idBibMarc.100	https://wellcomeopenresearch.org/articles/6-285/v1
+idBomDisc1.1.fa	Diptera	Bombylius	discolor	Satellite	Monotypic	idBomDisc.141	https://wellcomeopenresearch.org/articles/7-306/v1
+idEpiSucc1.1.fa	Diptera	Epicampocera	succincta	Satellite	Monotypic	idEpiSucc.160	https://wellcomeopenresearch.org/articles/8-276
+eaMarGlac1.2.fa	Echinodermata	Marthasterias	glacialis	Satellite	Monotypic	eaMarGlac.488	https://wellcomeopenresearch.org/articles/6-295/v1
+gsMetZobe1.1.fa	Fungi	Metschnikowia	zobellii	Satellite	Monotypic	gsMetZobe.69	https://wellcomeopenresearch.org/articles/8-411/v1
+iyOphLute1.1.fa	Hymenoptera	Ophion	luteus	Satellite	Monotypic	iyOphLute.161	https://wellcomeopenresearch.org/articles/8-397/v1
+iyAmbArma2.1.fa	Hymenoptera	Amblyteles	armatorius	Satellite	Monotypic	iyAmbArma.148	https://wellcomeopenresearch.org/articles/8-61/v1
+iyAnoNige1.1.fa	Hymenoptera	Anoplius	nigerrimus	Satellite	Monotypic	iyAnoNige.349	https://wellcomeopenresearch.org/articles/7-125
+iyAthRosa1.1.fa	Hymenoptera	Athalia	rosae	Satellite	Monotypic	iyAthRosa.46	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_917208135.1/
+iyBomHypn1.1.fa	Hymenoptera	Bombus	hypnorum	Satellite	Monotypic	iyBomHypn1.36	https://wellcomeopenresearch.org/articles/8-21
+iyEctCont1.1.fa	Hymenoptera	Ectemnius	continuus	Satellite	Monotypic	iyEctCont.149	https://wellcomeopenresearch.org/articles/8-469/v1
+iyMacEuro1.1.fa	Hymenoptera	Macropis	europaea	Satellite	Monotypic	iyMacEuro.176	https://wellcomeopenresearch.org/articles/7-110
+iyMimDahl1.1.fa	Hymenoptera	Mimumesa	dahlbomi	Satellite	Monotypic	iyMimDahl.341	https://wellcomeopenresearch.org/articles/8-398
+iyNomFabr1.1.fa	Hymenoptera	Nomada	fabriciana	Satellite	Monotypic	iyNomFabr.100	https://wellcomeopenresearch.org/articles/8-497/v1
+iyStePhae1.1.fa	Hymenoptera	Stelis	phaeoptera	Satellite	Monotypic	iyStePhae.64	https://wellcomeopenresearch.org/articles/8-42/v1
+iyTipFemo1.1.fa	Hymenoptera	Tiphia	femorata	Satellite	Monotypic	iyTipFemo.138	https://wellcomeopenresearch.org/articles/8-57
+iyVesVulg1.1.fa	Hymenoptera	Vespula	vulgaris	Satellite	Monotypic	iyVesVulg.1813	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_905475345.1/
+mRhiSin1.1.fa	Mammalia	Rhinolophus	sinicus	Satellite	Ditypic	mRhiSin.880; mRhiSin.4557	None
+mOrcOrc1.1.fa	Mammalia	Orcinus	orca	Satellite	Ditypic	mOrcOrc.168; mOrcOrc.592	https://wellcomeopenresearch.org/articles/7-250/v1
+mCanLor1.2.fa	Mammalia	Canis	lupus	Satellite	Monotypic	mCanLor.734	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_905319855.2/
+mCerEla1.1.fa	Mammalia	Cervus	elaphus	Satellite	Monotypic	mCerEla.795	https://wellcomeopenresearch.org/articles/6-336
+mDicBic1.1.fa	Mammalia	Diceros	bicornis	Satellite	Monotypic	mDicBic.228	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_020826845.1/
+mEleMax1.1.fa	Mammalia	Elephas	maximus	Satellite	Monotypic	mEleMax.846	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_024166365.1/
+mLemCat1.1.fa	Mammalia	Lemur	catta	Satellite	Monotypic	mLemCat.41	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_020740605.2/
+mMelMel3.2.fa	Mammalia	Meles	meles	Satellite	Monotypic	mMelMel.142	https://wellcomeopenresearch.org/articles/7-239
+xgGibMagu1.1.fa	Mollusca	Gibbula	magus	Satellite	Monotypic	xgGibMagu.217	https://wellcomeopenresearch.org/articles/8-35/v1
+xbLimFort5.1.fa	Mollusca	Limnoperna	fortunei	Satellite	Monotypic	xbLimFort.33	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_944474755.1/
+lpJunEffu1.1.fa	Monocots	Juncus	effusus	Satellite	Ditypic	lpJunEffu.152; lpJunEffu.167	https://wellcomeopenresearch.org/articles/8-374
+inChrCarn1.1.fa	Neuroptera	Chrysoperla	carnea	Satellite	Monotypic	inChrCarn.165	https://wellcomeopenresearch.org/articles/6-334/v1
+ipIsoGram3.1.fa	Plecoptera	Isoperla	grammatica	Satellite	Monotypic	ipIsoGram.94	"https://wellcomeopenresearch.org/articles/8-107#:~:text=We%20present%20a%20genome%20assembly,1%20and%20X2%20chromosomes."
+rVipLat1.1.fa	Reptilia	Vipera	latastei	Satellite	Ditypic	rVipLat.159; rVipLat.168	None
+kaAplTurb1.1.fa	Tunicata	Aplidium	turbinatum	Satellite	Monotypic	kaAplTurb.162	https://wellcomeopenresearch.org/articles/7-106/v1
+fAciRut3.2.fa	Actinopterygii	Acipenser	ruthenus	Transposon	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_902713425.1/
+fPanHyp1.1.fa	Actinopterygii	Pangasianodon	hypophthalmus	Transposon	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_027358585.1/
+fPhoGun1.2.fa	Actinopterygii	Pholis	gunnellus	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/7-58
+fThuAlb1.1.fa	Actinopterygii	Thunnus	albacares	Transposon	NA	NA	None
+fThuMac1.1.fa	Actinopterygii	Thunnus	maccoyii	Transposon	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_910596095.1/
+fToxJac2.1.fa	Actinopterygii	Toxotes	jaculatrix	Transposon	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_017976425.1/
+wpLepClav1.1.fa	Annelida	Lepidonotus	clava	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/7-307/v1
+wcLumRube1.1.fa	Annelida	Lumbricus	rubellus	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-354/v1
+wrPisGeom1.1.fa	Annelida	Piscicola	geometra	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-229/v1
+wpSthLimi1.1.fa	Annelida	Sthenelais	limicola	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-31
+bCorHaw1.1.fa	Aves	Corvus	hawaiiensis	Transposon	NA	NA	None
+bLagMut1.1.fa	Aves	Lagopus	muta	Transposon	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_023343835.1/
+icLeiSpin1.1.fa	Coleoptera	Leistus	spinibarbis	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-412/v1
+icHalSede1.1.fa	Coleoptera	Halyzia	sedecimguttata	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-186/v1
+icMelMelo1.1.fa	Coleoptera	Melolontha	melolontha	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-222/v1
+icOphArdo1.1.fa	Coleoptera	Ophonus	ardosiacus	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-353
+icPhiCogn1.1.fa	Coleoptera	Philonthus	cognatus	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-169/v1
+icPyrSerr1.1.fa	Coleoptera	Pyrochroa	serraticornis	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/6-316
+qxSacCarc1.2.fa	Crustacea	Sacculina	carcini	Transposon	NA	NA	https://doi.org/10.12688/wellcomeopenres.18936.1
+drAilAlti1.1.fa	Dicots	Ailanthus	altissima	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-321
+dhAlnGlut1.1.fa	Dicots	Alnus	glutinosa	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/9-570/v1
+drFilUlma1.1.fa	Dicots	Filipendula	ulmaria	Transposon	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_964200655.1/
+drGeuUrba1.1.fa	Dicots	Geum	urbanum	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-371
+drMalDome5.1.fa	Dicots	Malus	domestica	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/7-297
+drMalSylv7.1.fa	Dicots	Malus	sylvestris	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/7-296/v1
+daSolDulc1.1.fa	Dicots	Solanum	dulcamara	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-409/v1
+drUrtUren1.1.fa	Dicots	Urtica	urens	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/9-639
+idGymRotn1.1.fa	Diptera	Gymnosoma	rotundatum	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/7-104/v1
+idMacAtri3.1.fa	Diptera	Machimus	atricapillus	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-113/v1
+idNepFlae1.1.fa	Diptera	Nephrotoma	flavescens	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-148/v1
+idPheCory1.1.fa	Diptera	Pherbina	coryleti	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-30
+idPolAmen1.1.fa	Diptera	Pollenia	amentaria	Transposon	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_943735925.1/
+idSarRose1.1.fa	Diptera	Sarcophaga	rosellei	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-43/v1
+idSicFerr1.1.fa	Diptera	Sicus	ferrugineus	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/7-91
+idSphTaen1.1.fa	Diptera	Sphaerophoria	taeniata	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-474/v1
+idStoLuna1.1.fa	Diptera	Stomorhina	lunata	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-330/v1
+idTacFera2.1.fa	Diptera	Tachina	fera	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/7-103
+grTriPseu1.1.fa	Fungi	Trichoderma	pseudokoningii	Transposon	NA	NA	https://doi.org/10.12688/wellcomeopenres.23607.1
+gfAgaBisp1.1.fa	Fungi	Agaricus	bisporus	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/9-621
+gfLaeSulp1.1.fa	Fungi	Laetiporus	sulphureus	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/7-83/v1
+gfPleOstr1.1.fa	Fungi	Pleurotus	ostreatus	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-277
+iyAndDors1.1.fa	Hymenoptera	Andrena	dorsata	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-373/v1
+iyCerRyby1.1.fa	Hymenoptera	Cerceris	rybyensis	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/6-337
+iyNysSpin1.1.fa	Hymenoptera	Nysson	spinosus	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/9-84
+iyRhoChlo1.1.fa	Hymenoptera	Rhogogaster	chlorosoma	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-59
+xgBioGlab47.1.fa	Mollusca	Biomphalaria	glabrata	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/9-435
+xgPatPell1.1.fa	Mollusca	Patella	pellucida	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/7-126/v1
+xgPatVulg1.1.fa	Mollusca	Patella	vulgata	Transposon	NA	NA	https://pmc.ncbi.nlm.nih.gov/articles/PMC10663661/
+xgPhoLine1.1.fa	Mollusca	Phorcus	lineatus	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-296
+xgSteCine2.1.fa	Mollusca	Steromphala	cineraria	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/7-44/v3
+lpPhrAust1.1.fa	Monocots	Phragmites	australis	Transposon	NA	NA	"https://wellcomeopenresearch.org/articles/9-577#:~:text=The%20genome%20of%20a%20specimen,providing%20approximately%2026%2Dfold%20coverage."
+tnLinLong1.2.fa	Nemertea	Lineus	longissimus	Transposon	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_910592395.1/
+ipNemDubi1.1.fa	Plecoptera	Nemoura	dubitans	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/8-329
+ipNemPict2.1.fa	Plecoptera	Nemurella	pictetii	Transposon	NA	NA	https://wellcomeopenresearch.org/articles/7-56/v2
+fTelBon1.1.fa	Actinopterygii	Telmatherina	bonti	Unknown	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_933228915.1/
+fTraTra1.2.fa	Actinopterygii	Trachurus	trachurus	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/7-118
+ucDunPrim2.1.fa	Algae	Dunaliella	primolecta	Unknown	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_914767535.2/
+ucPycProv1.1.fa	Algae	Pycnococcus	provasolii	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/8-520
+pEimTen1.1.fa	Alveolata	Eimeria	tenella	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/6-225/v1
+bTaeGut1.4.fa	Aves	Taeniopygia	guttata	Unknown	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_003957525.2/
+cbRhyLore1.1.fa	Bryophyta	Rhytidiadelphus	loreus	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/9-94
+cbThuTama2.1.fa	Bryophyta	Thuidium	tamariscinum	Unknown	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_947034885.2/
+tzCryPall5.1.fa	Bryozoa	Cryptosula	pallasiana	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/8-128
+qqMetBour1.1.fa	Chelicerata	Meta	bourneti	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/7-311/v1
+icAgrMuri1.1.fa	Coleoptera	Agrypnus	murinus	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/8-355/v1
+icPodAlpi1.1.fa	Coleoptera	Podabrus	alpinus	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/8-56/v1
+paTetJugo1.1.fa	Discoba	Tetramitus	jugosus	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/8-513
+gzMucPiri1.1.fa	Fungi	Mucor	piriformis	Unknown	NA	NA	https://doi.org/10.12688/wellcomeopenres.23606.1
+xbGarTell2.1.fa	Mollusca	Gari	tellinella	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/7-116/v1
+xbTriCroc3.1.fa	Mollusca	Tridacna	crocea	Unknown	NA	NA	https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_943736015.1/
+xbTriGiga4.1.fa	Mollusca	Tridacna	gigas	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/9-145/v1
+ipLeuNigr2.1.fa	Plecoptera	Leuctra	nigra	Unknown	NA	NA	https://wellcomeopenresearch.org/articles/8-95
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
