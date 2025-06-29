@@ -24,9 +24,9 @@ supp_data	script	extended_data_5.R	bar plots showing centromere content in satel
 supp_data	script	extended_data_7.R	pie charts showing centrophilic LTRRT in plants	data from sat_invasion_tally.R (*.intact.fa.rexdb-plant.cls.tsv.tally)
 supp_data	script	extended_data_9_panel_B.R	frequency of gaps along a scaled chromosome	.
 supp_data	script	extended_data_9_panel_C.R	gaps in satellite arrays ordered by physical position	data from gap_infer_prop_all_gaps.R (*.split.all.gaps.parsed)
-supp_data	script	supplemental_data_5.R	multipage pdf with ATHILA tree	.
+supp_data	script	supplemental_data_3.R	multipage pdf with ATHILA tree	.
 supp_data	script	extended_data_10_panel_A.R	drGeuUrba1 centromere space by chromosome	data from drGeuUrba1_cent_prop_step_3.R and drGeuUrba1_cent_prop_step_5.R
-supp_data	script	supplemental_data_4.R	transposon centromere content in satellite-based species	data from cent_prop_combined.sh (*_centromere_nt_prop_combined)
+supp_data	script	supplemental_table_2.R	transposon centromere content in satellite-based species	data from cent_prop_combined.sh (*_centromere_nt_prop_combined)
 basic_te_anno	script	wfun_lib.sh	basic functions	.
 basic_te_anno	script	TEsorter_with_EDTA_intact.sh	TEsorter classification	.
 basic_te_anno	script	TEsorter_with_filtered_rescued_files.sh	TEsorter classification	.
