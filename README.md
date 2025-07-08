@@ -13,8 +13,8 @@ Installed 3rd party software according to its documentation:
 * [TRASH2](https://github.com/vlothec/TRASH_2) which also requires:
 	* [MAFFT 7.526](https://mafft.cbrc.jp/alignment/software/)
 	* [HMMER 3.4](http://hmmer.org/download.html)
-* [EDTA](https://github.com/oushujun/EDTA)
-* [TEsorter](https://github.com/zhangrengang/TEsorter)
+* [EDTA 2.0.0](https://github.com/oushujun/EDTA)
+* [TEsorter 1.4.6](https://github.com/zhangrengang/TEsorter)
 * [Helixer 0.3.4](https://github.com/weberlab-hhu/Helixer)
 ## Putative centromeric repeat identification
 1. Run annotation software:
@@ -50,6 +50,7 @@ _/te_and_gap_analysis/_ directory contains scripts for transposon reannotation a
 * _/te_and_gap_analysis/Figure_3/_
 * _/te_and_gap_analysis/Figure_4/_
 * _/te_and_gap_analysis/supp_data/_
+Additional information is provided in /te_and_gap_analysis/te_readme.txt file. bedtools v2.27.1 is used to intersect coordinates and extract sequences.
 
 ## Other
 * _/FISH_oligo-pools/_ contains pools of oligonucleotides used in FISH experiments
