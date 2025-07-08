@@ -57,4 +57,6 @@ Additional information is provided in /te_and_gap_analysis/te_readme.txt file. b
 * _/FISH_oligo-pools/_ contains pools of oligonucleotides used in FISH experiments
 * [Figshare S1 figure](https://figshare.com/articles/dataset/193centromeres_S1/29436083) contains plots made with _/centromere_identification/10.1_global_plot_plus_cen_coordinates.R_ script that make the Supplemental Data 1 figure
 * [Figshare additional data](https://figshare.com/articles/dataset/193centromeres/29412917) contains all main data created by the scripts in this repository
+* [Figure 1a tree](https://itol.embl.de/tree/1311113034200051747154156) interactive tree from the Figure 1a
+* [CENP-A tree](https://itol.embl.de/tree/1311113034361481747416799) interactive CENP-A tree from the Figure 1b
 
