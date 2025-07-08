@@ -18,9 +18,9 @@ Installed 3rd party software according to its documentation:
 * Helixer 0.3.4
 ## Putative centromeric repeat identification
 1. Run annotation software:
-* TRASH2
-* EDTA
-* TEsorter
+	* TRASH2
+	* EDTA
+	* TEsorter
 2. Filter annotations with scripts found in /repeat_te_gene_annotations_parsing, in order they appear. Modify paths at the beginning of the script to match the outputs from the step above
 3. Calculate initial predictor scores for individual repeat families with /centromere_identification/6_find_centromeric_repeat.R script
 4. Create a genomic landscape plot to visualise lcoations and predictor scores of top scoring families and decide on the putative centromeric repeat with /centromere_identification/10_global_plot.R
