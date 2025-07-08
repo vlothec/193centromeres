@@ -50,7 +50,8 @@ _/te_and_gap_analysis/_ directory contains scripts for transposon reannotation a
 * _/te_and_gap_analysis/Figure_3/_
 * _/te_and_gap_analysis/Figure_4/_
 * _/te_and_gap_analysis/supp_data/_
-Additional information is provided in /te_and_gap_analysis/te_readme.txt file. bedtools v2.27.1 is used to intersect coordinates and extract sequences.
+
+Additional information is provided in /te_and_gap_analysis/te_readme.txt file. bedtools v2.27.1 is used to intersect coordinates and extract sequences. Required libraries are specified in each R script.
 
 ## Other
 * _/FISH_oligo-pools/_ contains pools of oligonucleotides used in FISH experiments
