@@ -10,12 +10,12 @@ Installed 3rd party software according to its documentation:
 	* Matrix
 	* pheatmap
 	* GenomicRanges
-* TRASH2 (https://github.com/vlothec/TRASH_2) which also requires:
+* [TRASH2](https://github.com/vlothec/TRASH_2) which also requires:
 	* MAFFT 7.526
 	* HMMER 3.4
-* EDTA
-* TEsorter
-* Helixer 0.3.4
+* [EDTA](https://github.com/oushujun/EDTA)
+* [TEsorter](https://github.com/zhangrengang/TEsorter)
+* [Helixer 0.3.4](https://github.com/weberlab-hhu/Helixer)
 ## Putative centromeric repeat identification
 1. Run annotation software:
 	* TRASH2
