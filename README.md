@@ -11,8 +11,8 @@ Installed 3rd party software according to its documentation:
 	* pheatmap
 	* GenomicRanges
 * [TRASH2](https://github.com/vlothec/TRASH_2) which also requires:
-	* MAFFT 7.526
-	* HMMER 3.4
+	* [MAFFT 7.526](https://mafft.cbrc.jp/alignment/software/)
+	* [HMMER 3.4](http://hmmer.org/download.html)
 * [EDTA](https://github.com/oushujun/EDTA)
 * [TEsorter](https://github.com/zhangrengang/TEsorter)
 * [Helixer 0.3.4](https://github.com/weberlab-hhu/Helixer)
