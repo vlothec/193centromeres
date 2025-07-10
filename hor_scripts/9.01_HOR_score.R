@@ -93,6 +93,42 @@ print(i)
     repeats_chr$hors_formed_tot_rep_normalised = repeats_chr$hors_formed_count / nrow(repeats_chr)
     
     repeats_chr$hors_formed_tot_rep_normalised <- repeats_chr$hors_formed_tot_rep_normalised * 100
+
+
+     # expand both block columns
+    long_data1 <- data.table(
+      element = unlist(lapply(1 : nrow(hors), function(X) rep(hors$start_A[X] : hors$end_A[X], hors$block.size.in.units[X])  )),
+      partner = unlist(lapply(1 : nrow(hors), function(X) rep(hors$start_B[X] : hors$end_B[X], each = hors$block.size.in.units[X])   ))
+    )
+    
+    long_data2 <- data.table(
+      element = unlist(lapply(1 : nrow(hors), function(X) rep(hors$start_B[X] : hors$end_B[X], hors$block.size.in.units[X])  )),
+      partner = unlist(lapply(1 : nrow(hors), function(X) rep(hors$start_A[X] : hors$end_A[X], each = hors$block.size.in.units[X])   ))
+    )
+    
+    long_data1 <- unique(long_data1)
+    long_data2 <- unique(long_data2)
+    
+    
+    # combine
+    long_data <- rbind(long_data1, long_data2)
+    long_data <- unique(long_data)
+    
+    remove(long_data1, long_data2)
+    
+    # remove self-interactions
+    long_data <- long_data[element != partner]
+    
+    # caluclate unique interactors
+    unique_interactions <- long_data[, .(num_interactors = uniqueN(partner)), by = element]
+    
+    # get results for each repeat
+    result_vector <- integer(nrow(repeats_chr))
+    result_vector[unique_interactions$element] <- unique_interactions$num_interactors
+    
+    # normalise to get HOR score
+    repeats_chr$HOR_score <- 100 * result_vector / nrow(repeats_chr)
+    
     
     write.csv(x = repeats_chr, file = paste0(hor_dirs[i], "/HOR_scored_", repeats_with_hors_files[j]), row.names = FALSE)
     
